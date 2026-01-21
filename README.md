@@ -1,6 +1,6 @@
 ## Hi there!
 
-I’m **Ayaan Shilledar**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Ayaan+Shilledar" />
 
 A **Computer Science undergraduate** focused on building  
 **well-structured, scalable software**.
@@ -10,9 +10,9 @@ I care deeply about:
 • **Real problems over demo projects**  
 • **Systems that are simple, reliable, and enjoyable to use**
 
-I believe good software is quiet, intentional, and built to last.
+```text
+Good software is quiet, intentional, and built to last.
 
-Always learning. Always shipping.
 
 ---
 ## Skills & Technologies

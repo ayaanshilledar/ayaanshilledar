@@ -1,15 +1,12 @@
-
-
 # Hi there 👋
 
-I’m **Ayaan Shilledar**
-
-A **Computer Science undergraduate** focused on building  
-**well-structured, scalable software** that solves real problems.
+I’m **Ayaan Shilledar** — a Computer Science undergraduate who enjoys building  
+**scalable, well-structured software** that solves real problems.
 
 I care deeply about:
+
 - **Clean architecture over shortcuts**
-- **Real problems over demo projects**
+- **Real-world problems over demo projects**
 - **Systems that are simple, reliable, and enjoyable to use**
 
 Good software is quiet, intentional, and built to last.
@@ -20,26 +17,33 @@ Always learning. Always shipping.
 
 <img
   src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-  width="300"
+  width="320"
+  alt="Coding animation"
 />
 
 ---
 
 ## Skills & Technologies
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,django,mongodb,postgres" />
+<img
+  src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,django,mongodb,postgres"
+  alt="Frontend and backend skills"
+/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,dart,graphql,docker,tailwind,vue,redux,cpp,postman" />
+<img
+  src="https://skillicons.dev/icons?i=git,github,dart,graphql,docker,tailwind,vue,redux,cpp,postman"
+  alt="Tools and technologies"
+/>
 
 ---
 
 ## Recent Activity
 
-- 🚀 Pushed changes to **CodeRev – Online Code Editor**
+- 🚀 Working on **CodeRev** — an online code editor
 - 🌱 Contributed to **Crop Journal**
-- 🧠 Updated **Bits RAG**
+- 🧠 Improving retrieval and reasoning in **Bits RAG**
 
 ---
 

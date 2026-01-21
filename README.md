@@ -1,6 +1,8 @@
 ## Hi there!
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Ayaan+Shilledar" />
+<p style="font-family: 'JetBrains Mono', monospace;">
+Ayaan Shilledar
+</p>
 
 A **Computer Science undergraduate** focused on building  
 **well-structured, scalable software**.

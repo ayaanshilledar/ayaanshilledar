@@ -1,4 +1,3 @@
-
 ## Hi there!
 
 I’m **Ayaan Shilledar**
@@ -15,13 +14,20 @@ I believe good software is quiet, intentional, and built to last.
 
 Always learning. Always shipping.
 
+---
 
 ## Skills & Technologies
 
-js,html,css,react,nodejs,express,django,mongodb,postgres,git,github,dart,graphql,docker,tailwind,vue,redux,cpp,postman
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,django,mongodb,postgres" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,dart,graphql,docker,tailwind,vue,redux,cpp,postman" />
+</div>
+
+---
 
 ## Recent Activity
 
-- Pushed changes to [CodeRev - AI-Powered Online Code Editor](https://github.com/aniket-patill/CodeRev-AI--Online-Code-IDE)  
-- Contributed to [Crop Journal AI](https://github.com/ayaanshilledar/cropJournal-AI)  
-- Updated [Bits RAG](https://github.com/ayaanshilledar/Bits_RAG)
+- Pushed changes to **CodeRev – Online Code Editor**  
+- Contributed to **Crop Journal**  
+- Updated **Bits RAG**

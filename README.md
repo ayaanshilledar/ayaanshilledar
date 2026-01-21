@@ -1,10 +1,4 @@
-<!-- ======================= -->
-<!--        BANNER           -->
-<!-- ======================= -->
 
-<img src="BANNER_URL_HERE" alt="Ayaan Shilledar Banner" width="100%" />
-
-<br/>
 
 # Hi there 👋
 

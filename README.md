@@ -1,8 +1,6 @@
 ## Hi there!
 
-<p style="font-family: 'JetBrains Mono', monospace;">
-Ayaan Shilledar
-</p>
+I’m **Ayaan Shilledar**
 
 A **Computer Science undergraduate** focused on building  
 **well-structured, scalable software**.
@@ -12,10 +10,12 @@ I care deeply about:
 • **Real problems over demo projects**  
 • **Systems that are simple, reliable, and enjoyable to use**
 
-Good software is quiet, intentional, and built to last.
+I believe good software is quiet, intentional, and built to last.
 
+Always learning. Always shipping.
 
 ---
+
 ## Skills & Technologies
 
 <div align="left">

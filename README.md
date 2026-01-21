@@ -2,94 +2,51 @@
 <!--        BANNER           -->
 <!-- ======================= -->
 
-<p align="center">
-  <img src="BANNER_URL_HERE" alt="Ayaan Shilledar Banner" width="100%" />
-</p>
+<img src="BANNER_URL_HERE" alt="Ayaan Shilledar Banner" width="100%" />
 
-<!-- ======================= -->
-<!--        INTRO            -->
-<!-- ======================= -->
+<br/>
 
-<h2 align="center">Hi there! 👋</h2>
+# Hi there 👋
 
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    width="280"
-    alt="Coding Animation"
-  />
-</p>
+I’m **Ayaan Shilledar**
 
-<p align="center">
-  <strong>I’m Ayaan Shilledar</strong><br/>
-  Computer Science Undergraduate
-</p>
+A **Computer Science undergraduate** focused on building  
+**well-structured, scalable software** that solves real problems.
 
-<p align="center">
-  Focused on building <strong>well-structured, scalable software</strong><br/>
-  that solves <strong>real problems</strong> and lasts.
-</p>
+I care deeply about:
+- **Clean architecture over shortcuts**
+- **Real problems over demo projects**
+- **Systems that are simple, reliable, and enjoyable to use**
 
----
+Good software is quiet, intentional, and built to last.
 
-<!-- ======================= -->
-<!--        PHILOSOPHY       -->
-<!-- ======================= -->
+Always learning. Always shipping.
 
-<h3 align="center">What I Care About</h3>
+<br/>
 
-<p align="center">
-  • Clean architecture over shortcuts<br/>
-  • Real-world problems over demo projects<br/>
-  • Simple, reliable, and enjoyable systems
-</p>
-
-<p align="center">
-  <em>
-    Good software is quiet, intentional, and built to last.
-  </em>
-</p>
-
-<p align="center">
-  Always learning. Always shipping.
-</p>
+<img
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+  width="300"
+/>
 
 ---
 
-<!-- ======================= -->
-<!--        SKILLS           -->
-<!-- ======================= -->
+## Skills & Technologies
 
-<h3 align="center">Skills & Technologies</h3>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,django,mongodb,postgres" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,django,mongodb,postgres" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,dart,graphql,docker,tailwind,vue,redux,cpp,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,dart,graphql,docker,tailwind,vue,redux,cpp,postman" />
 
 ---
 
-<!-- ======================= -->
-<!--     RECENT ACTIVITY     -->
-<!-- ======================= -->
+## Recent Activity
 
-<h3 align="center">Recent Activity</h3>
-
-<p align="center">
-  🚀 Pushed changes to <strong>CodeRev – Online Code Editor</strong><br/>
-  🌱 Contributed to <strong>Crop Journal</strong><br/>
-  🧠 Updated <strong>Bits RAG</strong>
-</p>
+- 🚀 Pushed changes to **CodeRev – Online Code Editor**
+- 🌱 Contributed to **Crop Journal**
+- 🧠 Updated **Bits RAG**
 
 ---
 
-<!-- ======================= -->
-<!--        FOOTER           -->
-<!-- ======================= -->
-
-<p align="center">
-  <sub>Thanks for stopping by 🙌</sub>
-</p>
+<sub>Thanks for stopping by.</sub>

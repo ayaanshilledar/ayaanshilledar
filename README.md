@@ -10,7 +10,6 @@ I care deeply about:
 • **Real problems over demo projects**  
 • **Systems that are simple, reliable, and enjoyable to use**
 
-```text
 Good software is quiet, intentional, and built to last.
 
 

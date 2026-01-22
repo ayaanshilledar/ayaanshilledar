@@ -1,16 +1,14 @@
-# Hi there 👋
+# HELLO EVERYONE 
 
 I’m **Ayaan Shilledar** — a Computer Science undergraduate who enjoys building  
 **scalable, well-structured software** that solves real problems.
 
 I care deeply about:
-
 - **Clean architecture over shortcuts**
 - **Real-world problems over demo projects**
 - **Systems that are simple, reliable, and enjoyable to use**
 
 Good software is quiet, intentional, and built to last.
-
 Always learning. Always shipping.
 
 <br/>

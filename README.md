@@ -39,12 +39,14 @@ Always learning. Always shipping.
 
 ---
 
-## Recent Activity
+⚡ Recent Activity — Still Grinding ⚡
 
-- 🚀 Working on **CodeRev** — an online code editor
-- 🌱 Contributed to **Crop Journal**
-- 🧠 Improving retrieval and reasoning in **Bits RAG**
+🚀 <span style="color:#00E5FF;"><b>CodeRev</b></span> — building an online code editor from scratch
 
----
+🌱 <span style="color:#00C853;"><b>Crop Journal</b></span> — contributing to a smart agri-tech project
+
+🧠 <span style="color:#FFD600;"><b>Bits RAG</b></span> — improving retrieval + reasoning pipelines
+
+🧩 <span style="color:#FF6D00;"><b>Atlas</b></span> — crafting an interactive AI assistant (real-world RAG, real users)
 
 <sub>Thanks for stopping by.</sub>

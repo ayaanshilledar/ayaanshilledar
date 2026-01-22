@@ -39,14 +39,48 @@ Always learning. Always shipping.
 
 ---
 
-⚡ Recent Activity — Still Grinding ⚡
+STILL GRINDING. STILL SHIPPING.
++ Zero excuses
++ Real systems, not demos
++ Production-first mindset
 
-🚀 <span style="color:#00E5FF;"><b>CodeRev</b></span> — building an online code editor from scratch
 
-🌱 <span style="color:#00C853;"><b>Crop Journal</b></span> — contributing to a smart agri-tech project
+I’m focused on building software that survives real users, real load, and real feedback — not just tutorials or clones.
 
-🧠 <span style="color:#FFD600;"><b>Bits RAG</b></span> — improving retrieval + reasoning pipelines
+🛠️ CodeRev
 
-🧩 <span style="color:#FF6D00;"><b>Atlas</b></span> — crafting an interactive AI assistant (real-world RAG, real users)
+A foundation-level system, not a side project
 
-<sub>Thanks for stopping by.</sub>
+Turning keystrokes into a full-fledged online code editor —
+thinking beyond UI into execution, latency, isolation, and UX at scale.
+Built with the mindset of how developers actually write, run, and debug code.
+
+🌾 Crop Journal
+
+Tech with measurable impact
+
+Contributing to an agri-tech system where data isn’t vanity — it drives decisions.
+Working on transforming raw inputs into actionable insights that can improve productivity, planning, and outcomes on the ground.
+
+🧠 Bits RAG
+
+Reducing noise, increasing signal
+
+Deeply focused on retrieval quality and reasoning reliability.
+Optimizing chunking, embeddings, and context flow to ensure outputs are
+grounded, accurate, and trustworthy — less hallucination, more intelligence.
+
+🧩 Atlas
+
+An AI assistant built for reality, not demos
+
+Designing an interactive AI assistant with a real user loop.
+Every feature is validated against actual usage, feedback, and failure modes —
+real-world RAG, real constraints, real improvements.
+
+⚙️ OPERATING MODE
+
+Build → Break → Learn → Refine
+Shipping systems that evolve, not projects that stagnate.
+
+<sub>Still early. Still hungry. Still building. 🚀</sub>

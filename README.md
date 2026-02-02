@@ -1,9 +1,12 @@
-👋 HELLO EVERYONE
-I’m Ayaan Shilledar — a Computer Science undergraduate and Engineer at Nodevbuild, passionate about building
-scalable, production-grade systems that solve real problems and survive real users.
-Good software is quiet, intentional, and built to last.
-Always learning. Always shipping.
+# HELLO EVERYONE 
 
+I’m **Ayaan Shilledar** — a Computer Science undergraduate who enjoys building and currently working at Nodevbuild
+**scalable, well-structured software** that solves real problems.
+
+I care deeply about:
+- **Clean architecture over shortcuts**
+- **Real-world problems over demo projects**
+- **Systems that are simple, reliable, and enjoyable to use**
 <br/>
 
 <img

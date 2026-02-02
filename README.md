@@ -1,7 +1,7 @@
 # HELLO EVERYONE 
 
-I’m **Ayaan Shilledar** — a Computer Science undergraduate who enjoys building and currently working at Nodevbuild
-**scalable, well-structured software** that solves real problems.
+I’m **Ayaan Shilledar** — a Computer Science undergraduate who enjoys building and **currently working at Nodevbuild**
+<br/>**scalable, well-structured software** that solves real problems.
 
 I care deeply about:
 - **Clean architecture over shortcuts**
